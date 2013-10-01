@@ -14,6 +14,7 @@ Server side test case on node.js
 * Run comand 'jasmine-node spec -autotest --watch .' (will automaticaly execute test case whenever current directory is changed)
 
 * To execute calculator test case run command  'jasmine-node spec/calculator-spec.js'
-* To execute calculator test case run command  'jasmine-node spec/helloworld-spec.js'
+* To execute node test case run command  'jasmine-node spec/helloworld-spec.js' (we need server app.js to be running)
+* To execute Express test case run command  'jasmine-node spec/express-spec.js' (we need server express_hello.js to be running)
 
 
